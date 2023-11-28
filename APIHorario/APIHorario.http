@@ -1,0 +1,21 @@
+@APIHorario_HostAddress = http://localhost:5113
+
+GET {{APIHorario_HostAddress}}/nocache
+Accept: application/json
+
+###
+
+GET {{APIHorario_HostAddress}}/cache
+Accept: application/json
+
+###
+
+GET {{APIHorario_HostAddress}}/cachequerystring?valorTeste=valor01
+Accept: application/json
+
+###
+
+GET {{APIHorario_HostAddress}}/cachequerystring?valorTeste=valor02
+Accept: application/json
+
+###

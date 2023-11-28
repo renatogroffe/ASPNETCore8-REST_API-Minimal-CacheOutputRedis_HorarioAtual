@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34310.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIHorario", "APIHorario.csproj", "{CE624D5A-533E-4ADD-A406-77A3397C94CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE624D5A-533E-4ADD-A406-77A3397C94CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE624D5A-533E-4ADD-A406-77A3397C94CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE624D5A-533E-4ADD-A406-77A3397C94CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE624D5A-533E-4ADD-A406-77A3397C94CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27ED772C-063B-4E0D-840C-FBDE0469E478}
+	EndGlobalSection
+EndGlobal
